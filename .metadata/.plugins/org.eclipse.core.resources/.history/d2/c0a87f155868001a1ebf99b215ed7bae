@@ -1,0 +1,20 @@
+package com.springframework;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.web.client.RestTemplate;
+
+//@SpringBootApplication
+public class RestTemplateExampleApplication {
+	static RestTemplate template = new RestTemplate();
+	static String baseUrl = "https://still-shore-77174.herokuapp.com/";
+	public static void main(String[] args) {
+		//SpringApplication.run(RestTemplateExampleApplication.class, args);
+		getExchange();
+	}
+
+	private static void getExchange() {
+		
+	}
+
+}

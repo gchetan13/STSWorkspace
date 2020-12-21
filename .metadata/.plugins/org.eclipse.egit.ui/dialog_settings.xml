@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="git@github.dxc.com:ashukla70/DXC_Internal_CaseStudy_Banking_POC.git"/>
+		<item value="https://github.dxc.com/ashukla70/DXC_Internal_CaseStudy_Banking_POC"/>
+		<item value="file:///D:\Spring Boot Workspace\BankingPOC"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+</section>

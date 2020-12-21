@@ -1,0 +1,24 @@
+package com.springframework;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.http.HttpEntity;
+import org.springframework.http.HttpHeaders;
+import org.springframework.http.HttpMethod;
+import org.springframework.http.MediaType;
+import org.springframework.web.client.RestTemplate;
+
+//@SpringBootApplication
+public class RestTemplateExampleApplication {
+	static RestTemplate template = new RestTemplate();
+	static String baseUrl = "https://still-shore-77174.herokuapp.com/";
+	public static void main(String[] args) {
+		//SpringApplication.run(RestTemplateExampleApplication.class, args);
+		getExchange();
+	}
+
+	private static void getExchange() {
+		template.exchange(baseUrl+"", HttpMethod.GET, new HttpEntity<Object>(new HttpHeaders().setContentType(MediaType.APPLICATION_JSON)), String.class);
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.springframework.controller.Controller&apos; to &apos;UserController&apos;&#x0D;&#x0A;- Original project: &apos;configuration-api&apos;&#x0D;&#x0A;- Original element: &apos;com.springframework.controller.Controller&apos;&#x0D;&#x0A;- Renamed element: &apos;com.springframework.controller.UserController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Controller&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.springframework.controller{Controller.java[Controller" matchStrategy="1" name="UserController" qualified="false" references="true" similarDeclarations="false" stamp="1584016189404" textual="false" version="1.0"/>
+</session>

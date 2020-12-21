@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TopicExcetionHandler.java&apos; to &apos;Banking/src/main/java/com.dxc.banking.exception&apos;&#x0D;&#x0A;- Original project: &apos;course-api-data&apos;&#x0D;&#x0A;- Destination element: &apos;Banking/src/main/java/com.dxc.banking.exception&apos;&#x0D;&#x0A;- Original element: &apos;com.springframework.topic.TopicExcetionHandler.java&apos;" description="Copy compilation unit" destination="=Banking/src\/main\/java&lt;com.dxc.banking.exception" element1="/src\/main\/java&lt;com.springframework.topic{TopicExcetionHandler.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1587446694786" units="1" version="1.0"/>
+</session>

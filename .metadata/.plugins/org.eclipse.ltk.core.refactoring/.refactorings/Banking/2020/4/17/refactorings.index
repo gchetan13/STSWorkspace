@@ -1,0 +1,7 @@
+1587362925268	Rename package 'com.springframework'
+1587386812304	Rename type 'PasswordException'
+1587387698354	Rename package 'com.dxc.banking.exception'
+1587387837117	Rename type 'UserValidator'
+1587387926895	Rename compilation unit 'ValidUser.java'
+1587639278694	Copy package
+1587639306115	Rename type 'UserService'

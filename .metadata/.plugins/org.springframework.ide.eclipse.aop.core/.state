@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="ratings-data-service"/>
+<aop-project name="discovery-server"/>
+<aop-project name="course-api"/>
+<aop-project name="courses-api"/>
+<aop-project name="Banking"/>
+<aop-project name="BankingApplication"/>
+<aop-project name="RestTemplateExample"/>
+<aop-project name="course-api-data"/>
+<aop-project name="movie-info-service"/>
+<aop-project name="course-springstarter"/>
+<aop-project name="movie-catalog-service"/>
+<aop-project name="configuration-api"/>
+</aop-reference-model>
